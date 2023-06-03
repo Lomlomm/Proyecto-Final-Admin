@@ -14,7 +14,7 @@ root.render(
   <React.StrictMode>
     <Router>
       <Routes>
-        <Route path='/Bonificacion' element={<Homepage />}>
+        <Route path='/Proyecto-Final-Admin' element={<Homepage />}>
         </Route>
         <Route path='/usqr' element={<Tarjeta/>}>
         </Route>

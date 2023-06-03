@@ -15,7 +15,7 @@ function Canjeado() {
     
     <div className='page'>
         <div className='header'>
-            <Link to='/Bonificacion' className='home'>
+            <Link to='/Proyecto-Final-Admin' className='home'>
                 <div className='home'>
                     <img className='imghome' src={home}/>
                 </div>
