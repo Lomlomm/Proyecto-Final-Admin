@@ -1,0 +1,10 @@
+.img-recom-can{
+    height: 250px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+.qr-can{
+    filter: blur(5px);
+    border-radius: 15px;
+    margin-top: 15px;
+}
